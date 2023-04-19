@@ -1,0 +1,3 @@
+The application is a simple website containing all the necessary routes asked in assingment with some additional routes (both in frontend and backend) for the purpose of adding some features or page quickly
+
+The first page of the webpage opens with a login page in which user have to login to continue to the main content, if user doesnt have account he/she can create account and then login .Without login the algo of the website does not allow to enter the main content page.The logout button redirects logs out you and then you have to re login.
